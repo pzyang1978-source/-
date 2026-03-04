@@ -1,0 +1,5 @@
+{
+  "name": "每日運量分析",
+  "description": "一個使用互動式圖表視覺化每日交通運量趨勢的儀表板。",
+  "requestFramePermissions": []
+}
